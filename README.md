@@ -24,7 +24,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🌟   Best Project So Far
 
-# <img src="https://i.ibb.co/wSwD1nB/logo-1.png" alt="Playpex logo" width="50"/> Playpex
+#### <img src="https://i.ibb.co/wSwD1nB/logo-1.png" alt="Playpex logo" width="25"/> Playpex
 <br>
 <br>
 
