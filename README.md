@@ -27,7 +27,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 <br>
 
-#### <img src="https://i.ibb.co/wSwD1nB/logo-1.png" alt="Playpex logo" width="25"/> Playpex
+### <img src="https://i.ibb.co/wSwD1nB/logo-1.png" alt="Playpex logo" width="25"/> Playpex
 
 
 **Playpex** is an exciting media streaming platform that revolutionizes your entertainment experience! 🚀 With its sleek design and intuitive interface, Playpex brings the joy of streaming to a whole new level. 📺 Seamlessly stream your favorite movies and shows with ease, thanks to our innovative technology. Stay tuned for updates as we continue to enhance your viewing pleasure! 🌟 Check out the Playpex App Promo for a sneak peek! 🎉
@@ -35,7 +35,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 
-<a href="https://www.youtube.com/watch?v=mj4EjDdVXTo">
+<a target="_blank" href="https://www.youtube.com/watch?v=mj4EjDdVXTo">
   <img src="https://i.ibb.co/0qZny3h/Screenshot-2024-06-01-172518.png"/>
 </a> 
 
@@ -59,24 +59,3 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 
 <br>
-
-
-
-
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
-<br>
-
-### 🛠️ My Projects
-<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
