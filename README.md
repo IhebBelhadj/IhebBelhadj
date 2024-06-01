@@ -5,10 +5,6 @@
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, Devops and cloud engineer ☁️) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
-
-<a href="https://www.youtube.com/watch?v=mj4EjDdVXTo">
-![Playpex screenshot](https://i.ibb.co/0qZny3h/Screenshot-2024-06-01-172518.png)
-</a> 
   
 ### 🧐 More About Me:
 
@@ -51,7 +47,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 # <img src="https://i.ibb.co/wSwD1nB/logo-1.png" alt="Playpex logo" width="50"/> Playpex
 Playpex is a media streaming platform featuring a sleek 10-foot user interface with spatial navigation. Built with Electron and Angular, it leverages a local server for torrent streaming using Media Source Extensions (MSE). The project demonstrates advanced state management and offers a TV app-like experience. Future updates include a mobile remote controller app, enhanced state management, and user account features. Check out the Playpex App Promo for more details.
 
-https://i.ibb.co/0qZny3h/Screenshot-2024-06-01-172518.png
+
+<a href="https://www.youtube.com/watch?v=mj4EjDdVXTo">
+  <img src="https://i.ibb.co/0qZny3h/Screenshot-2024-06-01-172518.png"/>
+</a> 
 
 
 ### 📊 Github Stats
