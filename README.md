@@ -24,9 +24,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🌟   Best Project So Far
 
+<br>
+<br>
 #### <img src="https://i.ibb.co/wSwD1nB/logo-1.png" alt="Playpex logo" width="25"/> Playpex
-<br>
-<br>
+
 
 **Playpex** is an exciting media streaming platform that revolutionizes your entertainment experience! 🚀 With its sleek design and intuitive interface, Playpex brings the joy of streaming to a whole new level. 📺 Seamlessly stream your favorite movies and shows with ease, thanks to our innovative technology. Stay tuned for updates as we continue to enhance your viewing pleasure! 🌟 Check out the Playpex App Promo for a sneak peek! 🎉
 
