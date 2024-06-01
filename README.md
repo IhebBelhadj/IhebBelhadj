@@ -20,6 +20,21 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
+## 🏆 Hall of Fame
+
+### 🌟   Best Project So Far
+
+# <img src="https://i.ibb.co/wSwD1nB/logo-1.png" alt="Playpex logo" width="50"/> Playpex
+<br>
+
+Playpex is an innovative media streaming platform featuring a stunning 10-foot user interface with intuitive spatial navigation. 🚀 Built with Electron and Angular, it uses a local server to stream torrents seamlessly via Media Source Extensions (MSE). The project showcases advanced state management, offering a smooth, TV app-like experience. 📺 Future updates include a cross-platform mobile remote controller app, enhanced state management with Redux, and user account features for tracking and saving movies. 🌟 Check out the Playpex App Promo for an exciting overview! 🎉
+
+
+<a href="https://www.youtube.com/watch?v=mj4EjDdVXTo">
+  <img src="https://i.ibb.co/0qZny3h/Screenshot-2024-06-01-172518.png"/>
+</a> 
+
+
 ### 🔨 Languages and Tools:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
@@ -40,17 +55,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
-## 🏆 Hall of Fame
 
-### 🌟   Best Project So Far
-
-# <img src="https://i.ibb.co/wSwD1nB/logo-1.png" alt="Playpex logo" width="50"/> Playpex
-Playpex is a media streaming platform featuring a sleek 10-foot user interface with spatial navigation. Built with Electron and Angular, it leverages a local server for torrent streaming using Media Source Extensions (MSE). The project demonstrates advanced state management and offers a TV app-like experience. Future updates include a mobile remote controller app, enhanced state management, and user account features. Check out the Playpex App Promo for more details.
-
-
-<a href="https://www.youtube.com/watch?v=mj4EjDdVXTo">
-  <img src="https://i.ibb.co/0qZny3h/Screenshot-2024-06-01-172518.png"/>
-</a> 
 
 
 ### 📊 Github Stats
