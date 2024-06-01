@@ -42,6 +42,14 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
+## 🏆 Hall of Fame
+
+### 🌟   Best Project So Far
+
+# <img src="https://i.ibb.co/wSwD1nB/logo-1.png" alt="Playpex logo" width="50"/> Playpex
+Playpex is a media streaming platform featuring a sleek 10-foot user interface with spatial navigation. Built with Electron and Angular, it leverages a local server for torrent streaming using Media Source Extensions (MSE). The project demonstrates advanced state management and offers a TV app-like experience. Future updates include a mobile remote controller app, enhanced state management, and user account features. Check out the Playpex App Promo for more details.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mj4EjDdVXTo?si=hEpH-Ed8eGuC9NCD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
