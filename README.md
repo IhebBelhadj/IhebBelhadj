@@ -26,8 +26,11 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 # <img src="https://i.ibb.co/wSwD1nB/logo-1.png" alt="Playpex logo" width="50"/> Playpex
 <br>
+<br>
 
-Playpex is an innovative media streaming platform featuring a stunning 10-foot user interface with intuitive spatial navigation. 🚀 Built with Electron and Angular, it uses a local server to stream torrents seamlessly via Media Source Extensions (MSE). The project showcases advanced state management, offering a smooth, TV app-like experience. 📺 Future updates include a cross-platform mobile remote controller app, enhanced state management with Redux, and user account features for tracking and saving movies. 🌟 Check out the Playpex App Promo for an exciting overview! 🎉
+**Playpex** is an exciting media streaming platform that revolutionizes your entertainment experience! 🚀 With its sleek design and intuitive interface, Playpex brings the joy of streaming to a whole new level. 📺 Seamlessly stream your favorite movies and shows with ease, thanks to our innovative technology. Stay tuned for updates as we continue to enhance your viewing pleasure! 🌟 Check out the Playpex App Promo for a sneak peek! 🎉
+
+<br>
 
 
 <a href="https://www.youtube.com/watch?v=mj4EjDdVXTo">
