@@ -26,6 +26,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 <br>
+
 #### <img src="https://i.ibb.co/wSwD1nB/logo-1.png" alt="Playpex logo" width="25"/> Playpex
 
 
