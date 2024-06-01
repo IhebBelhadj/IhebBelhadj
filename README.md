@@ -1,6 +1,7 @@
 ## Hey 👋, I'm Iheb Belhadj!
 <a href='https://www.linkedin.com/in/iheb-belhaj'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
+<br/>
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, Devops and cloud engineer ☁️) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
@@ -9,15 +10,15 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
 ### 🧐 More About Me:
 
-- 🎓 &nbsp; I'm Currently a student, skillfully balancing work and my engineering studies.
-- ⏳  &nbsp; I strive to be as efficient as possible, managing my time between studies and work.
-- 💼 &nbsp; I've been a dev lead, making code reviews, and contributing to large scale projects.
-- 💡 &nbsp; I have experience with personal projects including games, mobile apps, web apps, and more.
-- 🚀 &nbsp; I am a fast learner with the ability to adapt to new challenges and technologies quickly.
-- 🗣️ &nbsp; I'm good at communicating and sharing ideas with the team, ensuring smooth project development.
-- 💻 &nbsp; I enjoy writing elegant, scalable code and turning innovative ideas into reality.
+- 🎓 &nbsp; Currently a student, skillfully balancing work and engineering studies.
+- ⏳  &nbsp;  Efficiently managing time between studies and work.
+- 💼 &nbsp; Experienced as a dev lead, handling code reviews and large projects.
+- 💡 &nbsp; Worked on personal projects: games, mobile apps, web apps, and more.
+- 🚀 &nbsp; Fast learner, adept at new challenges and technologies.
+- 🗣️ &nbsp; Effective communicator, ensuring smooth project development.
+- 💻 &nbsp; Passionate about writing elegant, scalable code.
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; Outside of tech, I like to read about physics and chemistry stuff.
+- 📚 &nbsp; Enjoy reading about physics, chemistry and math.
 
 <br>
 
