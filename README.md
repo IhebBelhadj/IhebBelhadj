@@ -42,21 +42,46 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 
 ### 🔨 Languages and Tools:
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://fr.wikipedia.org/wiki/Angular#/media/Fichier:Angular_full_color_logo.svg"></a>
 
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://e7.pngegg.com/pngimages/931/804/png-clipart-spring-framework-software-framework-java-application-framework-web-framework-java-leaf-text.png"></a>
+<img align="left" alt="JavaScript" height ="42px"  src="https://i.ibb.co/0qZny3h/Screenshot-2024-06-01-172518.png">
+<img align="left" alt="JavaScript" height ="42px"  src="https://i.ibb.co/JQH4ppg/Type-Script.png">
+<img align="left" alt="JavaScript" height ="42px"  src="
+https://i.ibb.co/BwZx9Y2/Vue-js.png
+">
+<img align="left" alt="JavaScript" height ="42px"  src="
+https://i.ibb.co/4tTQSGk/Angular.png
+">
+<img align="left" alt="JavaScript" height ="42px"  src="
+https://i.ibb.co/VNVsBQn/React.png
+">
+<img align="left" alt="JavaScript" height ="42px"  src="https://i.ibb.co/3kV9Dr1/Node-js.png
+">
+<img align="left" alt="JavaScript" height ="42px"  src="
+https://i.ibb.co/SwBjz7Y/Spring.png
+">
+<img align="left" alt="JavaScript" height ="42px"  src="
+https://i.ibb.co/Ksdt3X1/NET.png
+">
+<img align="left" alt="JavaScript" height ="42px"  src="
+https://i.ibb.co/mG8WFJW/Symfony.png
+">
+<img align="left" alt="JavaScript" height ="42px"  src="
+https://i.ibb.co/T02F3Zs/Laravel.png
+">
+<img align="left" alt="JavaScript" height ="42px"  src="
+https://i.ibb.co/Hr2S6hC/MySQL.png
+">
+<img align="left" alt="JavaScript" height ="42px"  src="
+https://i.ibb.co/23hmPVN/MongoDB.png
+">
+<img align="left" alt="JavaScript" height ="42px"  src="
+https://i.ibb.co/rcBRcs8/Postgres-SQL.png
+"> 
+<img align="left" alt="JavaScript" height ="42px"  src="https://i.ibb.co/gzf2mS7/Docker.png">
+<img align="left" alt="JavaScript" height ="42px"  src="
+https://i.ibb.co/JHzRCq8/Unity.png
+">
 
 
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 
 <br>

@@ -1,0 +1,17 @@
+https://i.ibb.co/4dxY8pc/Java-Script.png
+https://i.ibb.co/WfFms6F/Jira.png
+https://i.ibb.co/Ksdt3X1/NET.png
+https://i.ibb.co/23hmPVN/MongoDB.png
+https://i.ibb.co/Hr2S6hC/MySQL.png
+https://i.ibb.co/rcBRcs8/Postgres-SQL.png
+https://i.ibb.co/YD3sSrV/Sass.png
+https://i.ibb.co/mG8WFJW/Symfony.png
+https://i.ibb.co/T02F3Zs/Laravel.png
+https://i.ibb.co/3kV9Dr1/Node-js.png
+https://i.ibb.co/SwBjz7Y/Spring.png
+https://i.ibb.co/VNVsBQn/React.png
+https://i.ibb.co/BwZx9Y2/Vue-js.png
+https://i.ibb.co/4tTQSGk/Angular.png
+https://i.ibb.co/JQH4ppg/Type-Script.png
+https://i.ibb.co/JHzRCq8/Unity.png
+https://i.ibb.co/gzf2mS7/Docker.png
