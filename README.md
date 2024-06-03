@@ -43,45 +43,22 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🔨 Languages and Tools:
 
-<img align="left" alt="JavaScript" height ="42px"  src="https://i.ibb.co/0qZny3h/Screenshot-2024-06-01-172518.png">
-<img align="left" alt="JavaScript" height ="42px"  src="https://i.ibb.co/JQH4ppg/Type-Script.png">
-<img align="left" alt="JavaScript" height ="42px"  src="
-https://i.ibb.co/BwZx9Y2/Vue-js.png
-">
-<img align="left" alt="JavaScript" height ="42px"  src="
-https://i.ibb.co/4tTQSGk/Angular.png
-">
-<img align="left" alt="JavaScript" height ="42px"  src="
-https://i.ibb.co/VNVsBQn/React.png
-">
-<img align="left" alt="JavaScript" height ="42px"  src="https://i.ibb.co/3kV9Dr1/Node-js.png
-">
-<img align="left" alt="JavaScript" height ="42px"  src="
-https://i.ibb.co/SwBjz7Y/Spring.png
-">
-<img align="left" alt="JavaScript" height ="42px"  src="
-https://i.ibb.co/Ksdt3X1/NET.png
-">
-<img align="left" alt="JavaScript" height ="42px"  src="
-https://i.ibb.co/mG8WFJW/Symfony.png
-">
-<img align="left" alt="JavaScript" height ="42px"  src="
-https://i.ibb.co/T02F3Zs/Laravel.png
-">
-<img align="left" alt="JavaScript" height ="42px"  src="
-https://i.ibb.co/Hr2S6hC/MySQL.png
-">
-<img align="left" alt="JavaScript" height ="42px"  src="
-https://i.ibb.co/23hmPVN/MongoDB.png
-">
-<img align="left" alt="JavaScript" height ="42px"  src="
-https://i.ibb.co/rcBRcs8/Postgres-SQL.png
-"> 
-<img align="left" alt="JavaScript" height ="42px"  src="https://i.ibb.co/gzf2mS7/Docker.png">
-<img align="left" alt="JavaScript" height ="42px"  src="
-https://i.ibb.co/JHzRCq8/Unity.png
-">
 
+<img align="left" alt="JavaScript" height ="42px"  src="https://i.ibb.co/JQH4ppg/Type-Script.png">
+<img align="left" alt="JavaScript" height ="42px"  src="https://i.ibb.co/BwZx9Y2/Vue-js.png">
+<img align="left" alt="JavaScript" height ="42px"  src="https://i.ibb.co/4tTQSGk/Angular.png">
+<img align="left" alt="JavaScript" height ="42px"  src="https://i.ibb.co/VNVsBQn/React.png">
+<img align="left" alt="JavaScript" height ="42px"  src="https://i.ibb.co/3kV9Dr1/Node-js.png">
+<img align="left" alt="JavaScript" height ="42px"  src="https://i.ibb.co/SwBjz7Y/Spring.png">
+<img align="left" alt="JavaScript" height ="42px"  src="https://i.ibb.co/Ksdt3X1/NET.png">
+<img align="left" alt="JavaScript" height ="42px"  src="https://i.ibb.co/mG8WFJW/Symfony.png">
+<img align="left" alt="JavaScript" height ="42px"  src="https://i.ibb.co/T02F3Zs/Laravel.png">
+<img align="left" alt="JavaScript" height ="42px"  src="https://i.ibb.co/Hr2S6hC/MySQL.png">
+<img align="left" alt="JavaScript" height ="42px"  src="https://i.ibb.co/23hmPVN/MongoDB.png">
+<img align="left" alt="JavaScript" height ="42px"  src="https://i.ibb.co/rcBRcs8/Postgres-SQL.png"> 
+<img align="left" alt="JavaScript" height ="42px"  src="https://i.ibb.co/gzf2mS7/Docker.png">
+<img align="left" alt="JavaScript" height ="42px"  src="https://i.ibb.co/JHzRCq8/Unity.png">
+<img align="left" alt="JavaScript" height ="42px"  src="https://i.ibb.co/YD3sSrV/Sass.png">
 
 
 <br>
