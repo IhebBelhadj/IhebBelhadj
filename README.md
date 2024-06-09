@@ -17,7 +17,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 🚀 &nbsp; Fast learner, adept at new challenges and technologies.
 - 🗣️ &nbsp; Effective communicator, ensuring smooth project development.
 - 💻 &nbsp; Passionate about writing elegant, scalable code.
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
 - 📚 &nbsp; Enjoy reading about physics, chemistry and math.
 
 <br>
