@@ -12,7 +12,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 - 🎓 &nbsp; Currently a student, skillfully balancing work and engineering studies.
 - ⏳  &nbsp;  Efficiently managing time between studies and work.
-- 💼 &nbsp; Experienced as a software engineer, handling large projects' code base.
 - 💡 &nbsp; Worked on personal projects: games, mobile apps, web apps, and more.
 - 🚀 &nbsp; Fast learner, adept at new challenges and technologies.
 - 🗣️ &nbsp; Effective communicator, ensuring smooth project development.
