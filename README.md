@@ -1,24 +1,6 @@
 ```
    [user@github] ~ $ neofetch --config off
 
-  
-              a8888b.
-             d888888b.
-             8P"YP"Y88
-             8|o||o|88
-             8'    .88
-             8`._.' Y8.
-            d/      `8b.
-           dP   .    Y8b.
-          d8:'  "  `::88b
-         d8"         'Y88b
-        :8P    '      :888
-         8a.   :     _a88P
-       ._/"Yaa_:   .| 88P|
-  jgs  \    YP"    `| 8P  `.
-  a:f  /     \.___.d|    .'
-       `--..__)8888P`._.'
-
 
    ╭─────────────────────────────────────────────────────────────────────────────────╮
    │   [iheb_belhadj] @ [127.0.0.1]                                                  │
@@ -37,11 +19,14 @@
    │    > Website:  your-site.com                                                    │
    ╰─────────────────────────────────────────────────────────────────────────────────╯
 ```
-#### Current Focus:
+#### `man profile`
 
--   Project A: Building a high-throughput messaging queue. `:w`
--   Project B: Refactoring a legacy monolith into microservices. `dd`
--   Learning: Advanced eBPF for network observability. `i`
+```
+NAME
+       [Iheb Belhadj] - a systems-oriented software engineer
 
-#### GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IhebBelhadj&layout=compact&theme=nord)
+DESCRIPTION
+       A polyglot engineer specializing in building and maintaining scalable,
+       resilient backend systems. Thrives in complex problem domains. 
+`
+``` 
