@@ -5,22 +5,27 @@
    [user@github] ~ $ neofetch --config off
 
 
-   ╭─────────────────────────────────────────────────────────────────────────────────╮
-   │   [iheb_belhadj] @ [127.0.0.1]                                                  │
-   ├─────────────────────────────────────────────────────────────────────────────────┤
-   │   OS:        Linux (Mentally)                                                   │
-   │   Editor:    Neovim                                                             │ 
-   │   Shell:     zsh                                                                │
-   │   WM:        hyperland                                                          │
-   │                                                                                 │
-   │   LANGS:     Typescript, Javascript, Python, c#, Java, c, PHP, Bash             │
-   │   INFRA:     K8s, Docker, Terraform, GCP, AWS                                   │
-   │   DB:        Postgres, Redis, ScyllaDB                                          │
-   │                                                                                 │
-   │   CONTACT:                                                                      │
-   │    > LinkedIn: /in/your-profile                                                 │
-   │    > Website:  your-site.com                                                    │
-   ╰─────────────────────────────────────────────────────────────────────────────────╯
+   ╭─────────────────────────────────────────────────────────────────────────────────────────╮
+   │   [iheb_belhadj] @ [127.0.0.1]                                                          │
+   ├─────────────────────────────────────────────────────────────────────────────────────────┤
+   │   OS:                Linux (Mentally)                                                   │
+   │   Editor:            Neovim                                                             │ 
+   │   Shell:             zsh                                                                │
+   │   WM:                hyperland                                                          │
+   │                                                                                         │
+   │   LANGS:             Typescript, Javascript, Python, c#, Java, c, PHP, Bash             │
+   │   FULLSTACK DEV:     Next.js, React.js, Angular, Vue, Spring, Express.js, Flask,        │
+   │                      Fast-api                                                           │
+   │   INFRA:             K8s, Docker, Terraform, Ansible, Vagrant                           │
+   │   DB:                Postgres, Redis, Mongo-db, Clickhouse                              │
+   │   DATA ENG:          Airflow, Airbyte, dbt                                              │
+   │   AGENTIC AI:        Langchain, Langgraph, crewAI                                       │
+   │   DEVOPS & MLOPS:    Jenkins, Github actions, Zenml, mlflow                             │
+   │                                                                                         │
+   │   CONTACT:                                                                              │
+   │    > LinkedIn: /in/iheb-belhaj/                                                         │
+   │    > Website:  404-not-found                                                            │
+   ╰─────────────────────────────────────────────────────────────────────────────────────────╯
 ```
 #### `man profile`
 
@@ -31,5 +36,4 @@ NAME
 DESCRIPTION
        A polyglot engineer specializing in building and maintaining scalable,
        resilient backend systems. Thrives in complex problem domains. 
-`
 ``` 
