@@ -1,3 +1,6 @@
+![profile_header](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5tNXc4Z3F3b3Nla3JjcXQ3NzVmYmNmaXdkaHp2MjhsbTR5c3VtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif
+"profile_header")
+
 ```
    [user@github] ~ $ neofetch --config off
 
