@@ -2,7 +2,7 @@
 "profile_header")
 
 ```
-   [user@github] ~ $ neofetch --config off
+   [iheb@github] ~ $ neofetch --config off
 
 
    ╭─────────────────────────────────────────────────────────────────────────────────────────╮
