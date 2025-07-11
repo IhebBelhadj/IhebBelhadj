@@ -35,5 +35,5 @@ NAME
 
 DESCRIPTION
        A polyglot engineer specializing in building and maintaining scalable,
-       resilient backend systems. Thrives in complex problem domains 
+       resilient backend systems. Thrives in complex problem domains  
 ``` 
