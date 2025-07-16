@@ -11,7 +11,7 @@
    │   OS:                Linux (Mentally)                                                   │
    │   Editor:            Neovim                                                             │ 
    │   Shell:             zsh                                                                │
-   │   WM:                hyprland                                                          │
+   │   WM:                hyprland                                                           │
    │                                                                                         │
    │   LANGS:             Typescript, Javascript, Python, c#, Java, c, PHP, Bash             │
    │   FULLSTACK DEV:     Next.js, React.js, Angular, Vue, Spring, Express.js, Flask,        │
