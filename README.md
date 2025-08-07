@@ -31,7 +31,7 @@
 
 ```
 NAME
-       [Iheb Belhaj] - a systems-oriented software engineer
+       [Iheb Belhadj] - a systems-oriented software engineer
 
 DESCRIPTION
        A polyglot engineer specializing in building and maintaining scalable,
