@@ -34,6 +34,6 @@ NAME
        [Iheb Belhadj] - a systems-oriented software engineer
 
 DESCRIPTION
-       A polyglot engineer specializing in building and maintaining scalable,
+       A software engineer specializing in building and maintaining scalable,
        resilient backend systems. Thrives in complex problem domains  
 ``` 
